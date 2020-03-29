@@ -1,0 +1,29 @@
+@CHARSET "ISO-8859-1";
+
+.logo-size{
+	height: 40px;
+	width: 40px;
+	margin-right:20px;
+	padding-top:2%;
+}
+.space{
+	
+	background:#008080;
+	text-align:center;
+	color:white;
+	position: fixed;
+  	left: 0;
+  	bottom: 0;
+  	width: 100%;
+}
+@media only screen and (max-width: 700px){
+	
+body{
+	text-align:center;
+	margin:0 auto;
+}
+.container{
+	text-align:center;
+}
+
+}
